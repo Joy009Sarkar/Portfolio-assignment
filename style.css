@@ -1,11 +1,175 @@
-.h1a{ 
+body{font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+h1{  
     color: crimson;
-    padding-left: 12%;
-    font-size: 25px;
-    border-width: 2px;
-    border-color: black;
-    border-left-style: solid
+
+     font-size: 32px;
+     
+  
+}
+
+.h1top{
+    border-left: orange;
+}
+.h1m {padding-left: 40%;
+    color: limegreen;
+    font-weight: 800;
+}
+h5 {font-weight: lighter;}
+#m22{
+    color: rgb(196, 13, 13);
+}
+.M21{color: rgb(240, 15, 15);}
+.flex-boxed1 {
+    display: flex;
+
+}
+
+.bodytop{display: flex;}
+.bodymid-b{display: flex;}
+
+
+
+
+
+
+
+.Scale50 {
+    width: 20%;
+    padding-left: 20%;
+    padding-top: 5%;
     
     
     
 }
+.Scale50 img {width: 100%;
+       
+        
+    
+}
+.Scale50a {
+    width: 60%;
+    padding-left: 10%;
+    padding-top: 5%;
+
+}
+.Scale50ainfo {
+    width: 50%;
+    padding-left: 23%;
+    padding-bottom: 30%;
+
+}
+
+
+.Scale50a img {width: 100%;
+
+}
+
+.linkup-switch {
+    text-decoration: none;
+    
+    padding: 8px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(Aquamarine,Teal);
+    color: Gold ;
+    font-weight: 400;
+    font-style: italic;
+    font-family: cursive;
+  
+}
+.linkup-switch2 {
+    text-decoration: none;
+    
+    padding: 8px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(Aquamarine,Teal);
+    color: Gold ;
+    font-weight: 400;
+    font-style: italic;
+    font-family: cursive;
+  
+}
+
+
+
+.im1 img {
+    
+width: 20%;
+background-image: linear-gradient(Cornsilk DarkGrey);
+
+}
+.imgmsr{
+    display: flex;
+    width: 100%;
+    text-align: center;
+     
+    justify-content: space-around;
+    padding-top: 5%;
+    padding: 10px;
+   }
+
+   
+
+
+.container{
+    
+    display: flex;
+    
+
+
+}
+.container img{width: 100%;
+
+}
+
+.text-col{
+    padding-left: 12%;
+    
+    width: 50%
+    
+}
+.img-col{width: 25%;}
+
+
+.parentdiv{
+    display: flex;
+    padding-top: 10%;
+
+}
+.parentdiv img{width: 100%;}
+
+
+.sylhet {padding-left: 42%;
+         padding-top: 10%;
+         font-weight: 800;
+         
+        
+           font-variant: small-caps;
+           
+            color: yellowgreen;}
+
+
+            .pic-col{ width: 35%;
+                padding-left: 10%;
+    
+    
+
+            }
+
+.txt-col{width: 20%;
+    padding-left: 30%;
+  
+
+}
+
+
+
+
+
+
+
+             
